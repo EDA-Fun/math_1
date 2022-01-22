@@ -1,0 +1,31 @@
+print('Hi welcome to math_1')
+
+print('first let.s make a line')
+print('type eps_code=000.1')
+ if ans.lower "eps_code=000.1"
+ print("------")
+ if else print("you dont have a line")
+ 
+print(" Ok make me a line with BB-Nine ")
+print("Where gonna need DDS Packager")
+print("So type math-install dl.math1.com/2ucbg")
+if ans.lower "math-install dl.math1.com/2ucbg"
+if else
+print("No")
+
+print("You downloaded DDS for Math1 1.22.5")
+print("Good")
+
+print("Now we need BB-Nine")
+print(" So type math-set dds=1 dl bb-nine ")
+if ans.lower "math-set dds=1 dl bb-nine"
+print("You download BB-Nine 1.0.4")
+print("Whoa you have BB-Nine")
+print("We have BB-Nine type math-set bb-nine=op")
+if ans.lower "math-set bb-nine=op"
+print ("Yay type one-1")
+if else
+print("No aw shoot")
+if ans.lower "one-1"
+print("----------")
+print("Good check us again")
